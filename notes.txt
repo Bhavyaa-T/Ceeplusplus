@@ -1,0 +1,13 @@
+OOP basics
+
+encapsulation
+abstraction
+inheritance
+polymorphism
+
+
+// Abstract Classes
+Device will contain pure virtual functions for what each device must be capable of doing 
+
+//
+
