@@ -5,9 +5,19 @@ abstraction
 inheritance
 polymorphism
 
+General idea is to create an OOP-based software description of hardware devices 
+The point of this exercies is to practice my understanding of OOP in C++ 
+
+An idea of the general structure: 
 
 // Abstract Classes
-Device will contain pure virtual functions for what each device must be capable of doing 
+Device class will contain pure virtual functions for what each device must be capable of doing 
 
-//
+// encapsulation
+Every class will have full encapsulation - I will try to correctly use private, protected, and public for attributes and methods
 
+// inheritance
+Create some derived classes, correctly using public/private inheritance when needed
+
+// polymorphism
+todo
