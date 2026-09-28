@@ -7,6 +7,7 @@ polymorphism
 
 General idea is to create an OOP-based software description of hardware devices 
 The point of this exercies is to practice my understanding of OOP in C++ 
+NO AI ALLOWED only man pages 
 
 An idea of the general structure: 
 
